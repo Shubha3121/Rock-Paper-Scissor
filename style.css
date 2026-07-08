@@ -71,4 +71,6 @@ button {
     font-weight: bold;
 
     color: #1e293b;
+
+    white-space: pre-line;
 }
